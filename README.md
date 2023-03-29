@@ -1,6 +1,7 @@
 <div align="center">
-    <img src="public/logo.gif" height="70" alt="Lenster Logo">
-    <h1>MARYLIST</h1>
+    <img src="p![R (8)](https://user-images.githubusercontent.com/114183913/228656388-6a101511-62c3-423b-86a1-db97f7a21696.png)
+ublic/logo.gif" height="70" alt="Book logo">
+    <h1>MARYLIST </h1>
     <strong align="center">A decentralized todo dapp </strong>
 </div>
 <strong>This is a simple application of the blockchain technology. with some basic functionalities:</strong>
