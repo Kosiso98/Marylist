@@ -62,7 +62,8 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 
 ## 🔧 Technology Stack & Tools
 
-
+**Styled using Bulma CSS**
+- (https://bulma.io)
 
 - [Ethers](https://docs.ethers.io/)
 <br/>
@@ -156,7 +157,7 @@ Contributions are what make the open source community such an amazing place to b
 
 MIT License
 
-Copyright (c) [2023] [Fabulousugo]
+Copyright (c) [2023] [KosisoMaryann]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
